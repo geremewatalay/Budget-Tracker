@@ -5,7 +5,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className='bg-grey-200 min-h-screen'>
+    <div className='bg-gray-200 min-h-screen'>
       <h1 className='text-3ml font-bold text-center pt-12 '>Personal Finance Tracker</h1>
       <div className='container mt-20 mx-auto px-5'>
       <div className='p-5 bg-white rounded-lg shadow-lg'>
